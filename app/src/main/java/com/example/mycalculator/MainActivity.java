@@ -34,6 +34,8 @@ public class MainActivity extends AppCompatActivity {
         btnDivision=findViewById(R.id.btn_division);
         btnClear=findViewById(R.id.btn_clear);
 
+
+        //set click
 btnPlus.setOnClickListener(new View.OnClickListener() {
     @Override
     public void onClick(View v) {
